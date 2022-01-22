@@ -84,7 +84,7 @@ button {
   font-size: 22px;
   border-radius: 4px;
   background-color: var(--white-color);
-  padding: 20px 25px;
+  padding: 20px 75px 20px 25px;
 }
 
 .weather-search-button {
@@ -153,9 +153,12 @@ button {
   }
   .weather-search input {
     font-size: 18px;
+    padding-left: 20px;
+    padding-right: 50px;
   }
   .weather-search-button {
     font-size: 22px;
+    right: 10px;
   }
 
   .weather-result-title,
